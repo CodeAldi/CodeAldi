@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing several laravel web app
+- 👩‍💻 I’m currently working on developing several laravel web app
 - 🌱 I’m currently learning laravel
 - 📫 How to reach me: codealdi@gmail.com
 - ⚡ Fun fact: i love noodle, spicy food, and spicy noodle 🍜
